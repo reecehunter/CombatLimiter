@@ -1,0 +1,6 @@
+name: BossCombatLimiter
+version: '1.0-SNAPSHOT'
+main: net.bosshub.bosscombatlimiter.BossCombatLimiter
+api-version: 1.19
+
+depend: [WorldGuard, PlaceholderAPI]

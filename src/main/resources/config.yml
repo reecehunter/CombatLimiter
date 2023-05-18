@@ -1,0 +1,19 @@
+# The amount of time, in seconds, before
+# a player can throw another ender pearl.
+pearl-cooldown: 20
+
+# The amount of time, in seconds, before
+# a player can eat a regular golden apple.
+crapple-cooldown: 10
+
+# The amount of time, in seconds, before
+# a player can use riptide.
+riptide-cooldown: 20
+
+# The prefix to show before
+# the pearl cooldown message
+message-prefix: "WARNING "
+
+# Regions to use the pearl timer
+disabled-regions:
+  - "warzone"
